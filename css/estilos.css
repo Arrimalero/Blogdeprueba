@@ -7,6 +7,22 @@ body
   margin: 0;
   padding: 0;
 }
+#cabecera{
+  background: orange;
+  box-shadow: 9px -5px 35px -6px rgba(0,0,0,0.75);
+  color: gray;
+  text-align: left;
+  font-size: 15px;
+  font-family: cursive;
+  font-weight: bold;
+}
+#cabecera #tag{
+  background: darkorange;
+  color: white;
+  font-size: 0.8em;
+  padding: 0 0 0 1em;
+
+}
 .container{
   width: 70%;
   padding: 1em;
